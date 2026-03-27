@@ -1,8 +1,8 @@
 class CodexDocker < Formula
   desc "Run Codex CLI in a disposable Docker container"
   homepage "https://github.com/AndreiMarhatau/codex-docker"
-  url "https://github.com/AndreiMarhatau/codex-docker/archive/refs/tags/v0.6.0.tar.gz"
-  sha256 "560af9c114596e1ee9a170f2b877b260648447f98e2b242d64664b513a8ebd15"
+  url "https://github.com/AndreiMarhatau/codex-docker/archive/refs/tags/v0.6.1.tar.gz"
+  sha256 "440d8b20d476f59ef5e1f7d8c05bb8411fa1aa3f85cedc3d17e87f085fac46fc"
   license "MIT"
 
   depends_on "docker"
